@@ -4,9 +4,9 @@
 #### Team: Lokesh Paturu, Shuhao Yu, Vincent Yang
 
 ### Dataset:
-Run `load_data.ipynb` to load the dataset and get the statistics for the data.
+Download [Subtitles and Summary Dataset](https://) using this link. Extract the dataset in the directory where code is present.
 <br/>
-Download [Subtitles and Summary Dataset](https://)
+Run jupyter notebook and `load_data.ipynb` to load the dataset and get the statistics for the data.
 
 
 ### Train the Model
