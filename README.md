@@ -4,7 +4,7 @@
 #### Team: Lokesh Paturu, Shuhao Yu, Vincent Yang
 
 ### Dataset:
-Download [Subtitles and Summary Dataset](https://) using this link. Extract the dataset in the directory where code is present.
+Download [Subtitles and Summary Dataset](https://drive.google.com/file/d/1P12oN9SrbSxJavZvXS3FVHQYDLm6dMHa/view?usp=sharing) using this link. Extract the dataset in the directory where code is present.
 <br/>
 Run jupyter notebook and `load_data.ipynb` to load the dataset and get the statistics for the data.
 
