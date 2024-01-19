@@ -19,3 +19,7 @@ Run `data_summarization.ipynb` to load the outputs csv file from the `data_prepr
 ### Evaluation
 
 
+### Data sources
+Subtitles are downloaded from [opensubtitles.org](https://www.opensubtitles.org/)
+<br />
+Movie summaries source: [CMU Movie Summary Corpus](https://www.cs.cmu.edu/~ark/personas/)
